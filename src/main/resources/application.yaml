@@ -1,0 +1,7 @@
+camunda:
+  bpm:
+    history-level: full
+    authorization:
+      enabled: false
+    job-execution:
+      enabled: false
